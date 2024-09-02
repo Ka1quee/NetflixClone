@@ -1,17 +1,14 @@
-# Youtube Clone 🔴🎬
+# Netflix Clone 🎬🔴
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ka1quee/Youtube-Clone/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-https://ka1quee.github.io/Youtube-Clone/
+https://netflix-clone-coral-seven.vercel.app/
 
-Este projeto foi uma das atividades solicitadas pelo Instituto PROA, a ideia era reproduzir a home do youtube partindo do zero e tentando ser o mais fiel possivel.
+Desenvolvido em Março de 2024, esse projeto tem como objetivo reproduzir a página inicial da Netflix utilizando conceitos básicos de desenvolvimento web.
 
 ## Layout web
-![Web 1](https://github.com/Ka1quee/Youtube-Clone/blob/main/img/layoutWeb.JPG)
-
-## Layout mobile
-![Mobile 1](https://github.com/Ka1quee/Youtube-Clone/blob/main/img/layoutMobile.JPG)
+![Web 1](https://i.imgur.com/Pk5uBD8.png)
 
 # Autor
 
